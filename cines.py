@@ -4,8 +4,10 @@ class Pelicula:
         self.clasificacion_edad = clasificacion_edad
         self.duracion = duracion 
         self.director= director 
+        #gola mundo
         
-    
+    def main():
+        pass
 
 
 class Sala:
