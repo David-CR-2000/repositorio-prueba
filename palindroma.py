@@ -7,3 +7,5 @@ if  palabra == palabra_palindroma:
     print("La palabra es palindroma")
 else:
     print("La palabra no es palindroma")
+    
+    print()
